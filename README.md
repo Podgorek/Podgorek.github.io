@@ -1,4 +1,4 @@
-### Patryk Podgórski
+##### Patryk Podgórski
 ## O mnie
 Jestem studentem AGH, pochodzę z Opola, a aktualnie mieszkam w Krakowie
 ## Zainteresowania
