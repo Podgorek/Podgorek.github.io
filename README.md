@@ -1,9 +1,9 @@
-##### Patryk Podgórski
-## O mnie
+# Patryk Podgórski
+### O mnie
 Jestem studentem AGH, pochodzę z Opola, a aktualnie mieszkam w Krakowie
-## Zainteresowania
+### Zainteresowania
 -Informatyka
 -Pływanie
-## Umiejętności
+### Umiejętności
 -Mała znajomość pythona (w trakcie nauki)
 -Podstawowa znajomość c++
